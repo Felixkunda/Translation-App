@@ -1,3 +1,3 @@
-# tester_2
+# Translation App
 
-A new Flutter project.
+A Flutter project with Machine Learning.
