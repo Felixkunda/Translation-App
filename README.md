@@ -1,6 +1,5 @@
 # Translation App
 
-# Translation App
 
 ## Overview
 
