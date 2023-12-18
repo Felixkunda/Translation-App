@@ -39,6 +39,8 @@ Welcome to the Translation App with Machine Learning repository! This mobile app
 
 ## Getting Started
 
+Windows
+
 To clone and run this application, follow these simple steps:
 
 1. **Clone the Repository:**
@@ -121,4 +123,4 @@ We welcome contributions from the community. If you find a bug or have a feature
 
 ## License
 
-This project is licensed under the [HuggingFace License](LICENSE). Feel free to use, modify, and distribute the code for your purposes.
+This project is under the [HuggingFace]. Feel free to use, modify, and distribute the code for your purposes.
