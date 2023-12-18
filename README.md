@@ -67,6 +67,47 @@ To clone and run this application, follow these simple steps:
     flutter run
     ```
 
+To clone and run this application on Linux, follow these simple steps:
+
+1. **Clone the Repository:**
+
+    ```bash
+    git clone https://github.com/Felixkunda/Translation-App.git
+    ```
+
+2. **Navigate to the Project Directory:**
+
+    ```bash
+    cd Translation-App
+    ```
+
+3. **Install Dependencies:**
+
+    Make sure you have Flutter installed. If not, follow the [official installation guide](https://flutter.dev/docs/get-started/install).
+
+    ```bash
+    flutter pub get
+    ```
+
+    If you encounter permission issues, you may need to use `sudo`:
+
+    ```bash
+    sudo flutter pub get
+    ```
+
+4. **Run the App:**
+
+    ```bash
+    flutter run
+    ```
+
+    Again, if you encounter permission issues:
+
+    ```bash
+    sudo flutter run
+    ```
+
+
 ## How to Use
 
 1. Open the app on your mobile device or emulator.
